@@ -1,0 +1,30 @@
+/* color palette: 
+background: #F4F1ED
+#7B571D
+#000000
+#FDAA23
+#FE9F04
+#FFFFFF */
+
+* {
+  font-family: Verdana, Itim, Tahoma, sans-serif;
+  background-color: #f4f1ed;
+  margin: auto;
+}
+
+.header {
+  display: block;
+  text-align: center;
+  margin: 10px auto 10px auto;
+}
+
+.header.t1 {
+  font-size: 50px;
+}
+
+img {
+  width: 40%;
+  height: 40%;
+  border: solid;
+  border-radius: 5px;
+}
